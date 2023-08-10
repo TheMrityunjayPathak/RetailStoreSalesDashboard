@@ -46,4 +46,4 @@ git clone https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard.git
 ## Link to the Dataset
 [Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)
 
-![Screenshot_20230616_035317](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/assets/123563634/a91bbef7-34c6-4baf-96b8-956d551ba289)
+![Screenshot_20230616_035317](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/assets/123563634/1725e494-528f-4ebc-a76a-87704d820f30)
