@@ -12,7 +12,7 @@ I made this Retail Store Sales Report in Power BI with sample Data of a Store wh
 
 Report has Multiple Section's from where you can manage the Data, Like :
 
-- Report Data can be sliced by Quater of Year to show Data of Q1, Q2, Q3, Q4.
+- Report Data can be sliced by Quarter of Year to show Data of Q1, Q2, Q3, Q4.
 
 - Report Data can also be sliced by State to show sales of any particular State.
 
