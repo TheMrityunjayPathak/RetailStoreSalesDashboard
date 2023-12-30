@@ -2,7 +2,7 @@
 
 Hello Everyone,
 
-I made this Retail Store Sales Report in PowerBI with sample Data of a Store which I collected from Kaggle.
+I made this Retail Store Sales Report in Power BI with sample Data of a Store which I collected from Kaggle.
 
 ## Problem Statement
 
