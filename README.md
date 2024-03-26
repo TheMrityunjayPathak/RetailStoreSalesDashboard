@@ -6,7 +6,7 @@ I made this Retail Store Sales Dashboard in Power BI with sample Data of a Store
 
 ## Problem Statement
 
-- The aim of this Power BI Dashboard Project is to design a Retail Store Sales Dashboard that provides a clear and concise overview of the Store's Sales performance, enabling the owner to gain actionable insights.
+- To design a Retail Store Sales Dashboard that provides a clear and concise overview of the Store's Sales performance enabling the owner to gain actionable insights.
 
 ## Sections in the Report
 
