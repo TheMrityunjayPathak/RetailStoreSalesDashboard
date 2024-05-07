@@ -32,7 +32,7 @@ Report has Multiple Section's from where you can manage the Data, Like :
 
 - And Lastly I included a Bar Chart to show Top 4 Customers of our Store.
 
-- I have also included a 🔄 Reset Button at the Top to clear all Slicer's.
+- I have also included a Reset Button at the Top to clear all Slicer's.
 
 - To use it hold CTRL and then click it to reset the Slicer's.
 
