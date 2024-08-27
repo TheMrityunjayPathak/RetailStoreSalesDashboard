@@ -1,4 +1,4 @@
-# Retail Store Sales Dashboard
+## Retail Store Sales Dashboard
 
 Hello Everyone,
 
