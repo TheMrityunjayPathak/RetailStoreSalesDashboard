@@ -8,7 +8,7 @@
 
 ## Sections in the Report
 
-Report has multiple section's from where you can manage the data, like :
+**Report has multiple section's from where you can manage the data, like :**
 
 - Report data can be sliced by a quarter of the year to show data of Q1, Q2, Q3, Q4.
 
