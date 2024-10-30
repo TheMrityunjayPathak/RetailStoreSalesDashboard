@@ -10,7 +10,7 @@
 
 Report has multiple section's from where you can manage the data, like :
 
-- Report data can be sliced by Quarter of Year to show data of Q1, Q2, Q3, Q4.
+- Report data can be sliced by a quarter of the year to show data of Q1, Q2, Q3, Q4.
 
 - Report data can also be sliced by state to show sales of any particular state.
 
