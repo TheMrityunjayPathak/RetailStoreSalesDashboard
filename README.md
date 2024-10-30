@@ -1,6 +1,6 @@
 ## Retail Store Sales Dashboard
 
-- Hello Everyone, I made this Retail Store Sales Dashboard in Power BI with sample Data of a Store which I collected from Kaggle.
+- Hello Everyone, I made this Retail Store Sales Dashboard in Power BI with sample data of a store which I collected from Kaggle.
 
 ## Problem Statement
 
@@ -8,35 +8,35 @@
 
 ## Sections in the Report
 
-Report has Multiple Section's from where you can manage the Data, Like :
+Report has multiple section's from where you can manage the data, like :
 
-- Report Data can be sliced by Quarter of Year to show Data of Q1, Q2, Q3, Q4.
+- Report data can be sliced by Quarter of Year to show data of Q1, Q2, Q3, Q4.
 
-- Report Data can also be sliced by State to show sales of any particular State.
+- Report data can also be sliced by state to show sales of any particular state.
 
-- It has cards showing Total Amount, Total Profit, Total Quantity of Sale.
+- Report has cards showing Total Amount, Total Profit, Total Quantity of Sale.
 
-- Report has a Bar Chart showing Total Profit by Month.
+- Report has a bar chart showing Total Profit by Month.
 
-- I conditionally formatted the Bar Chart to show different color when there is loss in Business.
+- I conditionally formatted the bar chart to show different color in case of profit and loss in business.
 
-- Report has another Horizontal Bar Chart which shows Profit by Sub Category of Items.
+- Report has another horizontal bar chart which shows Profit by Sub Category of Items.
 
-- Then I have included a Donut Chart to show how much Quantity of Product is order through which Payment Mode.
+- I have included a donut chart to show the quantity of products ordered through different payment mode.
 
-- I also included a Donut Chart to show how much Quantity of Product is ordered in which Category.
+- I also included a donut chart to show the quantity of products ordered in which category.
 
-- Then I included a Horizontal Bar Chart to show Top 4 Performing State in sales.
+- Then I included a horizontal bar chart to show top 4 performing state in sales.
 
-- And Lastly I included a Bar Chart to show Top 4 Customers of our Store.
+- And Lastly I included a bar chart to show top 4 customers of our store.
 
-- I have also included a Reset Button at the Top to clear all Slicer's.
+- I have also included a **Reset** button at the top to clear all slicer's.
 
-- To use it hold CTRL and then click it to reset the Slicer's.
+- To use it hold CTRL and then click it to reset all the slicer's.
 
 ## Getting Started
 
-- Clone the repository to your local machine using the following command :
+- Clone this repository to your local machine by using the following command :
 ```
 git clone https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard.git
 ```
