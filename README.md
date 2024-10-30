@@ -1,10 +1,12 @@
 ## Retail Store Sales Dashboard
 
-- Hello Everyone, I made this Retail Store Sales Dashboard in Power BI with sample data of a store which I collected from Kaggle.
+Hello Everyone,
+
+I made this Retail Store Sales Dashboard in Power BI with sample data of a store which I collected from Kaggle.
 
 ## Problem Statement
 
-- To design a Retail Store Sales Dashboard that provides a clear and concise overview of the Store's Sales performance enabling the owner to gain actionable insights.
+To design a Retail Store Sales Dashboard that provides a clear and concise overview of the Store's Sales performance enabling the owner to gain actionable insights.
 
 ## Sections in the Report
 
