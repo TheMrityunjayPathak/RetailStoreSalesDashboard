@@ -12,7 +12,7 @@ To design a Retail Store Sales Dashboard that provides a clear and concise overv
 
 **Report has multiple section's from where you can manage the data, like :**
 
-- Report data can be sliced by a quarter of the year to show data of Q1, Q2, Q3, Q4.
+- Report data can be sliced by a quarter of the year to show the data of Q1, Q2, Q3, Q4.
 
 - Report data can also be sliced by state to show sales of any particular state.
 
@@ -20,7 +20,7 @@ To design a Retail Store Sales Dashboard that provides a clear and concise overv
 
 - Report has a bar chart showing Total Profit by Month.
 
-- I conditionally formatted the bar chart to show different color in case of profit and loss in business.
+- I conditionally formatted the bar chart to show different color in case of profit and loss in the business.
 
 - Report has another horizontal bar chart which shows Profit by Sub Category of Items.
 
@@ -30,7 +30,7 @@ To design a Retail Store Sales Dashboard that provides a clear and concise overv
 
 - Then I included a horizontal bar chart to show top 4 performing state in sales.
 
-- And Lastly I included a bar chart to show top 4 customers of our store.
+- And lastly, I included a bar chart to show top 4 customers of our store.
 
 - I have also included a **Reset** button at the top to clear all slicer's.
 
