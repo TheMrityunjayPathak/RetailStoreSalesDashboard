@@ -6,7 +6,7 @@ I made this Retail Store Sales Dashboard in Power BI with sample data of a store
 
 ## Problem Statement
 
-To design a Retail Store Sales Dashboard that provides a clear and concise overview of the Store's Sales performance enabling the owner to gain actionable insights.
+To create a dashboard that provides a clear overview of sales performance enabling the owner to gain actionable insights.
 
 ## Sections in the Report
 
@@ -38,7 +38,7 @@ To design a Retail Store Sales Dashboard that provides a clear and concise overv
 
 ## Getting Started
 
-- Clone this repository to your local machine by using the following command :
+Clone this repository to your local machine by using the following command :
 ```
 git clone https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard.git
 ```
